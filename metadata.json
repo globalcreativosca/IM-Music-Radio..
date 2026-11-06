@@ -1,0 +1,6 @@
+{
+  "name": "I´M Music Radio",
+  "description": "Estación de radio online en vivo con reproductor integrado, visualizador de audio, chat interactivo para oyentes y panel de administración completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
